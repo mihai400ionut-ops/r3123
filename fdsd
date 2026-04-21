@@ -26,7 +26,7 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url(https://cdn.discordapp.com/attachments/1478649525341261967/1496266519846588528/1a6f2b5b-07db-42e5-90d4-c97abc91551a.png?ex=69e94249&is=69e7f0c9&hm=87af5be90021c468b224925a3da85a86512e51664569e9e70581e235144390d5&); /* app background image (link must be HTTPS) [default: url(https://cdn.discordapp.com/attachments/1478649525341261967/1496266519846588528/1a6f2b5b-07db-42e5-90d4-c97abc91551a.png?ex=69e94249&is=69e7f0c9&hm=87af5be90021c468b224925a3da85a86512e51664569e9e70581e235144390d5&)]*/
+  --background-image: url(https://www.image2url.com/r2/default/images/1776808327884-3c15dcf7-c916-48a8-9437-aa13d23e9f60.png); /* app background image (link must be HTTPS) [default: url(https://www.image2url.com/r2/default/images/1776808327884-3c15dcf7-c916-48a8-9437-aa13d23e9f60.png)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
